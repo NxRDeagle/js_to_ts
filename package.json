@@ -15,5 +15,12 @@
     "url": "https://github.com/NxRDeagle/js_to_ts/issues"
   },
   "homepage": "https://github.com/NxRDeagle/js_to_ts#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
 }
