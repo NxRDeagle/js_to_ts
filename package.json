@@ -1,0 +1,19 @@
+{
+  "name": "js_to_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NxRDeagle/js_to_ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NxRDeagle/js_to_ts/issues"
+  },
+  "homepage": "https://github.com/NxRDeagle/js_to_ts#readme",
+  "description": ""
+}
